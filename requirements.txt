@@ -1,2 +1,22 @@
-pandas
-pyqt5
+# Ashes of Creation Artisan Toolbox Dependencies
+# Python 3.8+ compatible
+
+# GUI Framework
+PyQt6>=6.4.0
+
+# HTTP Client for API
+aiohttp>=3.8.0
+
+# Data Handling  
+pandas>=1.5.0
+
+# Type checking and development
+typing-extensions>=4.0.0
+
+# Future OCR Dependencies (commented for now)
+# opencv-python>=4.8.0
+# pytesseract>=0.3.10
+
+# Development and Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
